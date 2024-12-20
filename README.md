@@ -2,20 +2,29 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+<ul>
+  <li><b>osTicket (Help Desk Ticketing System)</b>
+    <ul>
+      <li><a href="https://github.com/RamsesVillalva/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
+      <li><a href="https://github.com/RamsesVillalva/post-install-config">osTicket: Post-Installation Configuration</a></li>
+      <li><a href="https://github.com/RamsesVillalva/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+    </ul>
+  </li>
+  <li><b>Microsoft Azure</b>
+    <ul>
+      <li><a href="https://github.com/RamsesVillalva/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></li>
+      <li><a href="https://github.com/RamsesVillalva/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
+    </ul>
+  </li>
+</ul>
 
-<h2>🤳Connect with me:</h2>
+<h2>🧣 Connect with me:</h2>
 
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/ramsesvillalva/
-[linkedin]: https://www.linkedin.com/in/ramses-villalva-643b2a27b/
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/ramses-villalva-643b2a27b/" style="text-decoration: none;">
+    <img alt="Ramses | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/ramsesvillalva/" style="text-decoration: none;">
+    <img alt="Ramses | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</div>
